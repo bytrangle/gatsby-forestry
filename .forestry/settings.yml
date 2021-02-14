@@ -7,9 +7,9 @@ sections:
 - type: heading
   label: Content
 - type: directory
-  path: content/posts
+  path: content/posts/forestry
   label: Blog Posts
-  create: documents
+  create: all
   match: "**/*"
   new_doc_ext: md
   templates:
