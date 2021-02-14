@@ -10,3 +10,7 @@ Previews allow content editors to see changes in Forestry before saving or publi
 [**Instant Previews**](https://forestry.io/docs/previews/instant-previews/) provide a short update loop when users preview a document.
 
 ## How does preview work
+
+![polar bear rescuing penguins](/static/uploads/499051.jpg "polar bear rescuing penguins")
+
+Photo by [Chrissa Giannakoudi](https://unsplash.com/@chrissiey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
