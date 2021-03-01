@@ -35,7 +35,3 @@ fields:
   label: hero image
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
-pages:
-- content/posts/forestry/Structure Markdown Files/ssg-for-dummies.md
-- content/posts/forestry/managing-content.md
-- content/posts/forestry/test.md
